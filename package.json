@@ -1,0 +1,29 @@
+{
+  "name": "hw-2_introducing_the_node.js_platform",
+  "version": "1.0.0",
+  "description": "node.js, test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zhmaeva/HW-2_Introducing_the_Node.js_platform.git"
+  },
+  "keywords": [
+    "node",
+    "test",
+    "netology"
+  ],
+  "author": "Zhmaeva Ekaterina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhmaeva/HW-2_Introducing_the_Node.js_platform/issues"
+  },
+  "homepage": "https://github.com/Zhmaeva/HW-2_Introducing_the_Node.js_platform#readme",
+  "devDependencies": {
+    "eslint": "^9.6.0",
+    "prettier": "^3.3.2"
+  }
+}
